@@ -1,0 +1,22 @@
+.btn {
+    top: 669px;
+left: 20px;
+width: 335px;
+height: 46px;
+border-radius: 6px;
+opacity: 1;
+}
+
+
+.btn-primay {
+    background: #6C25FF 0% 0% no-repeat padding-box;
+    }
+
+.btn-secondary {
+    background: #6C25FF4B 0% 0% no-repeat padding-box;
+    }
+
+.btn-disabl{
+background: #6C25FF 0% 0% no-repeat padding-box;
+
+}
