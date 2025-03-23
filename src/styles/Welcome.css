@@ -1,0 +1,26 @@
+.welcome-container {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 100vh;
+}
+
+.welcome-container > .btn-container {
+    margin: 29px 0;
+}
+
+.welcome-title {
+    text-align: left;
+    font: normal normal medium 28px/17px Rubik;
+    letter-spacing: 0px;
+    color: #1d2226;
+}
+
+.welcome-text {
+    text-align: left;
+    font: normal normal normal 18px/26px Rubik;
+    letter-spacing: 0px;
+    color: #1d2226;
+    opacity: 0.6;
+    margin-top: 10px;
+}

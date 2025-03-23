@@ -1,0 +1,22 @@
+.signin-title {
+    text-align: left;
+    font: normal normal medium 28px/36px Rubik;
+    letter-spacing: 0px;
+    color: #1d2226;
+    opacity: 1;
+    width: 188px;
+}
+
+.signin-text {
+    margin-top: 14px;
+    margin-bottom: 10px;
+    text-align: left;
+    font: normal normal normal 18px/26px Rubik;
+    letter-spacing: 0px;
+    color: #1d2226;
+    opacity: 0.6;
+}
+
+.signin-container > .btn-container {
+    margin-bottom: 4px;
+}

@@ -1,10 +1,8 @@
-
+import React from 'react'
 import "../styles/Button.css"
-function Button({ text, type }) {
+function Button({ children, type }) {
     return (
-        <Button className={`btn btn-${type}`}>
-            {text}
-        </Button>
+        <button className={`btn btn-${type}`}>{children}</button>
     )
 }
 

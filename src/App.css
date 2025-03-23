@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.app {
+    width: 375px;
+    height: 812px;
+    border: 2px solid rgba(184, 184, 184, 0.285);
+    border-radius: 6px;
+    padding: 40px 20px;
+}
+
+html {
+    user-select: none;
+    font-family: "Rubik";
+}

@@ -1,22 +1,28 @@
 .btn {
-    top: 669px;
-left: 20px;
-width: 335px;
-height: 46px;
-border-radius: 6px;
-opacity: 1;
+    display: block;
+    width: 335px;
+    height: 46px;
+    border-radius: 6px;
+    border: none;
+    opacity: 1;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    font: normal normal medium 16px/17px Rubik;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
 }
 
-
-.btn-primay {
-    background: #6C25FF 0% 0% no-repeat padding-box;
-    }
+.btn-primary {
+    background: #6c25ff 0% 0% no-repeat padding-box;
+}
 
 .btn-secondary {
-    background: #6C25FF4B 0% 0% no-repeat padding-box;
-    }
+    background: #6c25ff4b 0% 0% no-repeat padding-box;
+    color: black;
+}
 
-.btn-disabl{
-background: #6C25FF 0% 0% no-repeat padding-box;
-
+.btn-disable {
+    background: #cbcbcb 0% 0% no-repeat padding-box;
 }

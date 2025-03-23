@@ -1,0 +1,37 @@
+.register-title {
+    text-align: left;
+    font: normal normal medium 28px/36px Rubik;
+    letter-spacing: 0px;
+    color: #1d2226;
+    opacity: 1;
+    width: 188px;
+}
+
+.register-text {
+    margin-top: 14px;
+    margin-bottom: 10px;
+    text-align: left;
+    font: normal normal normal 18px/26px Rubik;
+    letter-spacing: 0px;
+    color: #1d2226;
+    opacity: 0.6;
+}
+
+.register-container > .btn-container {
+    margin-bottom: 4px;
+}
+
+.register-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.register-agency {
+    text-align: left;
+    font: normal normal normal 13px/17px Rubik;
+    letter-spacing: 0px;
+    opacity: 1;
+    margin-top: 18px;
+}

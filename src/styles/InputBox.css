@@ -1,0 +1,24 @@
+.input-box {
+    width: 335px;
+    height: 40px;
+    border: 1px solid #cbcbcb;
+    border-radius: 6px;
+    opacity: 1;
+    padding-left: 14px;
+    font-size: 14px;
+    color: #919191;
+}
+
+.input-title {
+    position: relative;
+    left: 14px;
+    top: 10px;
+    min-width: 85px;
+    height: 15px;
+    background: white;
+    text-align: left;
+    font: normal normal normal 13px/17px Rubik;
+    letter-spacing: 0px;
+    color: #6c25ff;
+    opacity: 1;
+}
